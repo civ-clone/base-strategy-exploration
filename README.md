@@ -1,4 +1,3 @@
-# package-template
+# base-strategy-exploration
 
-This is a template repo.
-
+The `Strategy` and `Routine`s to handle exploration. This will handle building explorers, prioritising where to explore
